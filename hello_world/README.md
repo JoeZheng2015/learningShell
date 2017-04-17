@@ -14,3 +14,9 @@ chmod +x ./index.sh
 /bin/sh index.sh
 /bin/php index.php
 ```
+
+扩展：
+同理，主要指定 Node 为解释器，则可增加 js 脚本
+``` bash
+./index.js
+```
